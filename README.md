@@ -1,5 +1,6 @@
-#Proof of Work
-Basic exaplme for finding a SHA256 hash and finding a hash with matching pattern
+# Proof of Work
+
+Basic example for finding a SHA256 hash and finding a hash with matching pattern
 
 Use `npm install` to install the dependencies
 

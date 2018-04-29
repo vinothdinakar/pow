@@ -18,6 +18,4 @@ It will then try to generate a hash value of the JSON block matching the pattern
 
 
 
-
-![pow](https://user-images.githubusercontent.com/379028/39411736-e3f1b5e6-4bd5-11e8-96f2-48ff54dcb530.PNG)
-
+![pow](https://user-images.githubusercontent.com/379028/39411825-102a9de8-4bd7-11e8-9fab-c82f4fc7726e.PNG)
